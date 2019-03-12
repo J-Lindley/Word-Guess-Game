@@ -1,0 +1,23 @@
+div {
+    border: 2px solid black;
+    font: 20px;
+    width: 600px;
+    text-align: center
+
+}
+
+.underScore {
+    border: 1px solid black;
+    font: 50px;
+}
+
+.rightGuess {
+    border: 1px solid black;
+    text-emphasis: bold;
+    font: 20px;
+}
+
+.wrongGuess {
+    border: 1px solid black;
+    font: 20px;
+}
